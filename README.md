@@ -19,6 +19,6 @@ Projeto desenvolvido para facilitar a busca e cadastro de prestadores de serviç
 
 ## 🛠️ Como executar o projeto
 
-[1. **Clone o repositório:**](https://github.com/SAlorencine/ServiceSearch/new/main?filename=README.md)
+[1. **Clique aqui**](https://github.com/SAlorencine/ServiceSearch/new/main?filename=README.md)
 
 ```bash
